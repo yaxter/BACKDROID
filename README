@@ -1,0 +1,36 @@
+Eficaz herramienta, capaz de inyectar un backdoor a casi cualquier app android
+sin importar la version de la misma.
+
+Instrucciones de Uso
+
+(OBLIGATORIO)
+instalar openjdk-8-jre : apt-get install openjdk-8-jre
+instalar openjdk-8-jdk : apt-get install openjdk-8-jdk
+instalar openjdk-8-jre : apt-get install openjdk-8-jre-headless
+instalar openjdk-8-jdk : apt-get install openjdk-8-jdk-headless
+update-alternatives --config java
+selecciona openjdk-8-jdk
+
+clone el repositorio: https://github.com/yaxter/BACKDROID
+Conceda permisos de ejecucion a la herramienta: chmod 777 BACKDROID
+Ejecute la herramienta: bash BACKDROID
+
+BACKDROID cuenta con un menu de 4 opciones, las 3 primeras opciones
+se basan en el metodo msfvenom, la ultima opcion (4) es la mas util ya que
+como lo mencione anteriormente es posible inyectar el payload de un apk
+msfvenom a casi cualquier apk original, en la opcion 4 cuentas con varias 
+opciones la 1 es la de inyeccion de backdoor automatico que es la mas rapida
+y las demas opciones son para hacer una inyeccion de backdoor manual.
+En la carpeta BACKDROID se incluye apktool_2.4.1, 1 keystore (no borrar) 
+y la herramienta en si, para la inyeccion manual puedes crear tu propio desde
+BACKDROID keystore para firmar la app o puedes utilizar el que incluye
+BACKDROID.
+
+backdroid.keystore
+alias: backdroid
+contraseña: 102020
+
+Si tiene algun problema en el compilado revise que tenga openjdk 8
+si el problema persiste descargue apktool_2.4.1.jar, muevalo a la carpeta
+BACKDROID y renombrelo como apktool.jar
+

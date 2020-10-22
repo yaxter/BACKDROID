@@ -6,7 +6,11 @@ a casi cualquier app Android actual.
 ## Capturas :
 ![pic1](https://i.ibb.co/bPKkn5x/BACKDROID2.png)
 
-![pic2](https://i.ibb.co/7vT4BxK/back4.png)
+![pic2](https://i.ibb.co/7j2dMxJ/payloads.png)
+
+![pic3](https://i.ibb.co/C9tT01B/backk.png)
+
+![pic4](https://i.ibb.co/whDyWs4/whats.png)
 
 <br /><br />
 

@@ -11,7 +11,7 @@ a casi cualquier app Android actual.
 <br /><br />
 
 ## Instalacion :
-
+```
  1 - instalar openjdk-8-jre : apt-get install openjdk-8-jre
  2 - instalar openjdk-8-jdk : apt-get install openjdk-8-jdk
  3 - instalar openjdk-8-jre : apt-get install openjdk-8-jre-headless
@@ -22,5 +22,5 @@ a casi cualquier app Android actual.
  7 - clone el repositorio: https://github.com/yaxter/BACKDROID
  8 - Conceda permisos de ejecucion a la herramienta: chmod 777 BACKDROID
  9 - Ejecute la herramienta: bash BACKDROID
-
+```
 

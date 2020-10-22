@@ -8,8 +8,8 @@ a casi cualquier app Android actual.
 
 ![pic2](https://i.ibb.co/7vT4BxK/back4.png)
 
-## Instalacion 
-'''
+## Instalacion :
+
 (OBLIGATORIO)
 1 - instalar openjdk-8-jre : apt-get install openjdk-8-jre
 2 - instalar openjdk-8-jdk : apt-get install openjdk-8-jdk
@@ -22,4 +22,4 @@ a casi cualquier app Android actual.
 8 - Conceda permisos de ejecucion a la herramienta: chmod 777 BACKDROID
 9 - Ejecute la herramienta: bash BACKDROID
 
-'''
+

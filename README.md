@@ -8,6 +8,8 @@ a casi cualquier app Android actual.
 
 ![pic2](https://i.ibb.co/7vT4BxK/back4.png)
 
+<br /><br />
+
 ## Instalacion :
 
 (OBLIGATORIO)

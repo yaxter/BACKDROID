@@ -11,15 +11,15 @@ a casi cualquier app Android actual.
 ## Instalacion 
 '''
 (OBLIGATORIO)
-instalar openjdk-8-jre : apt-get install openjdk-8-jre
-instalar openjdk-8-jdk : apt-get install openjdk-8-jdk
-instalar openjdk-8-jre : apt-get install openjdk-8-jre-headless
-instalar openjdk-8-jdk : apt-get install openjdk-8-jdk-headless
-update-alternatives --config java
-selecciona openjdk-8-jdk
+1-instalar openjdk-8-jre : apt-get install openjdk-8-jre
+2-instalar openjdk-8-jdk : apt-get install openjdk-8-jdk
+3-instalar openjdk-8-jre : apt-get install openjdk-8-jre-headless
+4-instalar openjdk-8-jdk : apt-get install openjdk-8-jdk-headless
+5-update-alternatives --config java
+6-selecciona openjdk-8-jdk
 
-clone el repositorio: https://github.com/yaxter/BACKDROID
-Conceda permisos de ejecucion a la herramienta: chmod 777 BACKDROID
-Ejecute la herramienta: bash BACKDROID
+7-clone el repositorio: https://github.com/yaxter/BACKDROID
+8-Conceda permisos de ejecucion a la herramienta: chmod 777 BACKDROID
+9-Ejecute la herramienta: bash BACKDROID
 
 '''

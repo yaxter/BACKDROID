@@ -4,8 +4,8 @@ a casi cualquier app Android actual.
 
 
 ## Screenshot:
-![pic1](https://imgur.com/a/dnJ2MKK)
+![pic1](https://ibb.co/ZVM0Cz3)
 
-![pic2](https://imgur.com/a/07ir27h)
+![pic2]()
 
 <br /><br />

@@ -6,6 +6,6 @@ a casi cualquier app Android actual.
 ## Screenshot:
 ![pic1](https://i.ibb.co/bPKkn5x/BACKDROID2.png)
 
-![pic2](https://ibb.co/v1rYfCk.back4.png)
+![pic2](https://i.ibb.co/7vT4BxK/back4.png)
 
 <br /><br />

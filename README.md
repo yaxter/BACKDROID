@@ -20,7 +20,8 @@ a casi cualquier app Android actual.
  6 - selecciona openjdk-8-jdk
 
  7 - clone el repositorio: https://github.com/yaxter/BACKDROID
- 8 - Conceda permisos de ejecucion a la herramienta: chmod 777 BACKDROID
- 9 - Ejecute la herramienta: bash BACKDROID
+ 8 - cd BACKDROID 
+ 9 - Conceda permisos de ejecucion a la herramienta: chmod 777 BACKDROID
+ 10 - Ejecute la herramienta: bash BACKDROID
 ```
 

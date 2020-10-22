@@ -4,7 +4,7 @@ a casi cualquier app Android actual.
 
 
 ## Screenshot:
-![pic1](https://ibb.co/ZVM0Cz3)
+![pic1](https://i.ibb.co/bPKkn5x/BACKDROID2.png)
 
 ![pic2]()
 

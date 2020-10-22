@@ -8,7 +8,7 @@ a casi cualquier app Android actual.
 
 ![pic2](https://i.ibb.co/7vT4BxK/back4.png)
 
-#Instalacion 
+## Instalacion 
 
 (OBLIGATORIO)
 instalar openjdk-8-jre : apt-get install openjdk-8-jre
